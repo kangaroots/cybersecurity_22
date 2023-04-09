@@ -32,25 +32,6 @@ MHN-Admin uses mongoDB as the RDBMS and uses mnemosyne. The exported JSON file c
 
 *Be sure to upload session.json directly to this GitHub repo/branch in order to get full credit.*
 
-### Deploying Additional Honeypot(s) (Optional)
-
-#### X Honeypot
-
-**Summary:** What does this honeypot simulate and do for a security researcher?
-
-<img src="x-honeypot.gif">
-
-### Malware Capture and Identification (Optional)
-
-#### X Malware
-
-**Summary:** How did you find it? Which honeypot captured it? What does each malware do?
-
-MD5 Hash: *Run `md5sum` on the file and record the hash here.*
-
-SHA1 Hash: *Run `sha1sum` on the file and record the hash here.*
-
-<img src="x-malware.gif">
 
 ## Notes
 
