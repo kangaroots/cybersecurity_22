@@ -7,7 +7,7 @@ Time spent: 24 hours spent in total
 
 ## Pen Testing Report
 
-### 1. (Required) CVE-2015-3438
+### 1. CVE-2015-3438
 - [ ] Summary: An attacker is able to insert html in a comment that affects the html of the page unexpectedly.
   - Vulnerability types: Unauthenticated Stored Cross-Site Scripting (XSS)
   - Tested in version: 4.1.0
@@ -20,7 +20,7 @@ Time spent: 24 hours spent in total
   - [Link 3](https://wordpress.org/news/2015/04/wordpress-4-1-2/)
   - [Link 4](https://cedricvb.be/post/wordpress-stored-xss-vulnerability-4-1-2/)
   
-### 2. (Required) CVE-2015-5622
+### 2. CVE-2015-5622
 
 - [ ] Summary: Cross-site scripting (XSS) vulnerability in WordPress before 4.2.3 allows remote authenticated users to inject arbitrary web script or HTML by leveraging the Author or Contributor role to place a crafted shortcode inside an HTML element.
   - Vulnerability types: Authenticated Stored Cross-Site Scripting (XSS)
@@ -33,7 +33,7 @@ Time spent: 24 hours spent in total
   - [Link 2](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2015-5622)
   - [Link 3](https://klikki.fi/adv/wordpress3.html)
 
-### 3. (Required) CVE-2017-6817
+### 3. CVE-2017-6817
 
 - [ ] Summary: HTML sanitization still allows escape sequences to work and an attacker is able to insert certain html tags and embed malicious shortcode.
   - Vulnerability types: Authenticated Stored Cross-Site Scripting (XSS)
