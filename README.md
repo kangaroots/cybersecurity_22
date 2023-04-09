@@ -47,28 +47,6 @@ Time spent: 24 hours spent in total
   - [Link 2](https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-6817)
   - [Link 3](https://blog.sucuri.net/2017/03/stored-xss-in-wordpress-core.html)
 
-### 4. (Optional) Vulnerability Name or ID
-
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
-
-### 5. (Optional) Vulnerability Name or ID
-
-- [ ] Summary: 
-  - Vulnerability types:
-  - Tested in version:
-  - Fixed in version: 
-- [ ] GIF Walkthrough: 
-- [ ] Steps to recreate: 
-- [ ] Affected source code:
-  - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php) 
-
 ## Assets
 
 List any additional assets, such as scripts or files
