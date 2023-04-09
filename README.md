@@ -1,4 +1,4 @@
-# Project 7 - WordPress Pen Testing
+# WordPress Pen Testing
 
 Time spent: 24 hours spent in total
 
